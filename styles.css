@@ -62,10 +62,10 @@
         padding-top: 0;
         padding-bottom: 0;
     }
-    @media (min-width: 768px) {
-        .features-3 h2 {
-            width: 55%;
-        }
+}
+@media (min-width: 768px) {
+    .features-3 h2 {
+        width: 55%;
     }
 }
 /* end of features 3 */
